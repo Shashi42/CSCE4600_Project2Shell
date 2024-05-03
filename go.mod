@@ -1,6 +1,6 @@
 module github.com/Shashi42/CSCE4600_Project2Shell
 
-go 1.22
+go 1.19
 
 require (
 	github.com/jh125486/CSCE4600 v0.0.0-20240428204657-10fe379368eb
