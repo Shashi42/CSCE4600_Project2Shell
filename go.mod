@@ -1,4 +1,4 @@
-module github.com/Shashi42/CSCE4600_Shashi
+module github.com/Shashi42/CSCE4600_Project2Shell
 
 go 1.19
 
