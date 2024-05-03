@@ -1,17 +1,16 @@
 module github.com/Shashi42/CSCE4600_Project2Shell
 
-go 1.19
+go 1.22
+
+toolchain go1.22.1
 
 require (
-	github.com/google/go-cmp v0.6.0
-	github.com/olekukonko/tablewriter v0.0.5
-	github.com/stretchr/testify v1.8.1
+	github.com/jh125486/CSCE4600 v0.0.0-20240428204657-10fe379368eb
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/mattn/go-runewidth v0.0.15 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/rivo/uniseg v0.4.4 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
