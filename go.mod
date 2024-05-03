@@ -2,8 +2,6 @@ module github.com/Shashi42/CSCE4600_Project2Shell
 
 go 1.22
 
-toolchain go1.22.1
-
 require (
 	github.com/jh125486/CSCE4600 v0.0.0-20240428204657-10fe379368eb
 	github.com/stretchr/testify v1.9.0
